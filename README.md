@@ -1,2 +1,2 @@
-# Deep_Learning
+# Computer Study
 Study Diary in Deep Learning
